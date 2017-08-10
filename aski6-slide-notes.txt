@@ -1,0 +1,14 @@
+Slide 4:
+* I learned:
+	* How to access a database from python.
+	* Manaing user logins with flask sessions.
+	* Hashing passwords for secure storage.
+
+Slide 6:
+* Problems:
+	* Caused errors in all files when changing file structure and then commiting it to git.
+	* The website was vulnerable to HTML injection into usernames, allowing users to mess with their pages.
+	* Our database decided that Cats were appliances.
+	* Cross platform problems when developing CSS without a server.
+
+
